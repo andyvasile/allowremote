@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# AllowRemote
+# AllowRemotse
 # ----------------------------------
 # description     : Script was written to help you enable / disable Allow Remote Domains usign WHMAPI1.
 # author          : Andy Vasile 
